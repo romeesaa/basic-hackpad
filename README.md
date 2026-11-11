@@ -29,3 +29,7 @@ I hope this project gets approved cause I spent like over 6 hours on it 🙏.
 1) routing :)
 2) making a schematic
 3) never give up never what?
+
+# bom 
+i dont think i want the parts for this until i get a 3d printer :)
+so no bom !!
